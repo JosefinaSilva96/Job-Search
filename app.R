@@ -582,7 +582,7 @@ ui <- fluidPage(
             ),
 
             hr(),
-            p(strong("¿Algo no funciona o tienes una duda?"), " Escríbeme directo a ",
+            p(strong("¿Algo no funciona o tienes una duda/sugerencia?"), " Escríbeme directo a ",
               tags$a(href = paste0("mailto:", CONTACTO_EMAIL), CONTACTO_EMAIL),
               " - cuéntame qué estabas haciendo y, si puedes, manda captura de pantalla,",
               "así es más rápido ayudarte.")
