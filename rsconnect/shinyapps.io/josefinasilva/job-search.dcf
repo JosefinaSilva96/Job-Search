@@ -1,0 +1,10 @@
+name: job-search
+title:
+username: josefinasilva
+account: josefinasilva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17810617
+bundleId: 12499124
+url: https://josefinasilva.shinyapps.io/job-search/
+version: 1
