@@ -420,11 +420,11 @@ ui <- fluidPage(
   "))),
   div(
     class = "app-header",
-    h1("🔎 Dashboard de Matching CV - Ofertas de Trabajo (Chile)"),
+    h1("🔎 Dashboard de Matching CV - Ofertas de Trabajo"),
     p(class = "subtitle",
       "Sube tu CV, agrega ofertas, revisa el % de match y pide sugerencias con IA."),
     p(class = "contacto",
-      "¿Algún problema con el dashboard? Escríbeme a ",
+      "¿Algún problema o sugerencia con el dashboard? Escríbeme a ",
       tags$a(href = paste0("mailto:", CONTACTO_EMAIL), CONTACTO_EMAIL))
   ),
   sidebarLayout(
